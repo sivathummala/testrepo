@@ -1,2 +1,2 @@
 # testrepo
-testrepository
+test repo for gir commands demonistrations
